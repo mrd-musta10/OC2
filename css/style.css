@@ -8,7 +8,6 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-bottom: 30px;
 }
 
 header img,
@@ -52,7 +51,7 @@ header img,
   height: 49px;
   padding: 0 20px;
   border: none;
-  background-color: var(--main-color);
+  background-color: var(--main-bg-color);
   color: white;
   border-radius: 0 15px 15px 0;
   font-size: 17px;
