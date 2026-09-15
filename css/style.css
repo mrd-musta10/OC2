@@ -626,6 +626,10 @@ footer {
     border-radius: 0;
   }
 
+  .hebergements-and-populaires .hebergements {
+    background-color: white;
+  }
+
   .hebergements-cards {
     flex-direction: column;
     gap: 15px;
