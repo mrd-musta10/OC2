@@ -116,7 +116,7 @@ header img,
     display: flex;
     align-items: center;
     height: 100%;
-    padding-top: 2px;
+    padding-top: 6px;
     border-top: 2px solid transparent;
 }
 
@@ -157,7 +157,6 @@ header img,
 #menu a:hover {
   color: #0065fc;
   border-top: 2px #0065fc solid;
-  padding-top: 16px;
 }
 
 body {
