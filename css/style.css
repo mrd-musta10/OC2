@@ -112,6 +112,14 @@ header img,
   list-style: none;
 }
 
+#menu a {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding-top: 2px;
+    border-top: 2px solid transparent;
+}
+
 :root {
   --main-color: #0065fc;
   --main-bg-color: #f2f2f2;
